@@ -12,3 +12,4 @@ C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code
 C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.pdb
 C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.genruntimeconfig.cache
 C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\ref\code_1.dll
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\map_data.txt

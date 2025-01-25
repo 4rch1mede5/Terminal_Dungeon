@@ -115,7 +115,7 @@ class Program
                             animationEntitiesMap[playerLocation[0]+1,playerLocation[1]] = "1";
                             break;
                         case ConsoleKey.LeftArrow:
-                            animationEntitiesMap[playerLocation[0],playerLocation[1]-1] = "1";//creates a 'sword swing' entity ("1")
+                            animationEntitiesMap[playerLocation[0],playerLocation[1]-1] = "1";//creates a 'sword swing' animation entity ("1")
                             break;
                         case ConsoleKey.W:
                             if (playerLocation[0] > 0 && (terrainMap[playerLocation[0]-1][playerLocation[1]] is '0' || terrainMap[playerLocation[0]-1][playerLocation[1]] is '2')) playerLocation[0]--;

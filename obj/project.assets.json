@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\githabs\\Terminal_Dungeon\\code_1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\code_1\\code_1.csproj",
       "projectName": "code_1",
-      "projectPath": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\githabs\\Terminal_Dungeon\\code_1.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\code_1\\code_1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\githabs\\Terminal_Dungeon\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - University of Latvia\\Darbvirsma\\imants\\programming\\code_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
