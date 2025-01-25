@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\code_1.exe
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\code_1.deps.json
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\code_1.runtimeconfig.json
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\code_1.dll
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\bin\Debug\net8.0\code_1.pdb
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.AssemblyInfo.cs
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.dll
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\refint\code_1.dll
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.pdb
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\code_1.genruntimeconfig.cache
+C:\Users\User\OneDrive - University of Latvia\Darbvirsma\imants\programming\code_1\obj\Debug\net8.0\ref\code_1.dll
